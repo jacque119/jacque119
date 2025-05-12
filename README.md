@@ -1,8 +1,8 @@
 # Hi there 👋, I’m Reza Febian Agassi
 
 🎓 **Hacktiv8 FTDS Graduate**  
-📊 **Aspiring Data Scientist | Quant Analyst in Progress**  
-🌐 **Currently building projects in Machine Learning, NLP, and Finance**  
+📊 **Data Analyst / Data Scientist | Applying AI to Real-World Problems**  
+🌐 **Currently building projects in Machine Learning, Deep Learning, and Finance**  
 📍 Indonesia
 
 ---
@@ -32,9 +32,8 @@
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/reza-agassi](https://www.linkedin.com/in/reza-agassi)
-- Twitter: [@jacque119](https://twitter.com/jacque119)
-- Email: reza.agassi@example.com
+- LinkedIn: [linkedin.com/in/reza-agassi](https://www.linkedin.com/in/reza-agassi-62240b2b7)
+- Email: rezaagassi9@gmail.com
 
 ---
 
