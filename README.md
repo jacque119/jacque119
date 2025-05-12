@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Reza Febian Agassi
+# Hi there 👋, I’m Reza Agassi
 
 🎓 **Hacktiv8 FTDS Graduate**  
 📊 **Data Analyst / Data Scientist | Applying AI to Real-World Problems**  
