@@ -4,6 +4,7 @@
 📊 **Data Analyst / Data Scientist | Applying AI to Real-World Problems**  
 🌐 **Currently building projects in Machine Learning, Deep Learning, Finance, and exploring Blockchain**  
 🔍 **Actively learning and experimenting with AI and Blockchain technologies**
+
 📍 Indonesia
 
 ---
