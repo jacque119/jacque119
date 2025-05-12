@@ -10,9 +10,9 @@
 ---
 
 ## 🚀 Projects
-- 🧠 `NLP-trial` – Sentiment analysis with ANN using TensorFlow  
-- 📚 `Machine-to-Learn` – A growing collection of DS/ML code  
-- 🔢 `ic-simulation-1` – Jupyter-based simulation of financial models  
+- 📉 `Netflix-Customer-Churn-Prediction` – Churn prediction using ML classification models, deployed on Streamlit  
+- 💸 `Solana-Meme-Coin-Liquidity-Analysis` – Liquidity analysis of meme coins using correlation and Tableau dashboard  
+- 🧠 `IMDb-Sentiment-Classification-using-Neural-Networks` – Sentiment analysis using ANN with TensorFlow and Streamlit  
 - 🧪 More projects coming soon...
 
 ---
